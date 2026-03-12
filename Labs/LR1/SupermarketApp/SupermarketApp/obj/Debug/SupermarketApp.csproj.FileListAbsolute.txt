@@ -1,0 +1,11 @@
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.pdb
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.Form1.resources
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.pdb
+C:\Users\nikit\Desktop\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe.config
