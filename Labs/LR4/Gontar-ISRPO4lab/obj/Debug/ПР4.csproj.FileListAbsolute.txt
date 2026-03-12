@@ -1,0 +1,10 @@
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\bin\Debug\ПР4.exe.config
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\bin\Debug\ПР4.exe
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\bin\Debug\ПР4.pdb
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.Form1.resources
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.exe
+C:\Users\nikit\Downloads\lb4_14.12.2025-master\obj\Debug\ПР4.pdb
